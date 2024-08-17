@@ -24,4 +24,4 @@ The **E-waste Monitoring System** is a console-based application designed to hel
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/e-waste-monitoring-system.git
+   git clone https://github.com/Charannagadeep/E-waste-Monitoring-System.git
