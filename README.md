@@ -1,6 +1,3 @@
-# E-waste-Monitoring-System
-
-
 # E-waste Monitoring System
 
 ## Introduction
